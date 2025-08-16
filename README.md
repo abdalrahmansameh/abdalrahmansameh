@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024  <br>📚 I'm currently learning Full-Stack Development (Next.js, Node.js, Tailwind, TypeScript)  <br>🎯 Goals: Build scalable SaaS apps & educational platforms  <br>💼 Projects I'm working on:  <br>- **Eaalim Meet** → Educational meetings & lectures platform  <br>- **بنك المعلومات** → Knowledge base for curricula & exams  <br>- **Imagenfay** → Image editing & background remover  <br>- **Simple Chatbot** → Lightweight assistant for quick Q&A  <br>🎲 Fun fact: I turn coffee ☕ into clean code (most of the time 😅)</p>
+<p align="left">✨ Creating bugs since 2024  <br>📚 I'm currently learning to be a software engineer Development (Next.js, Node.js, Tailwind, TypeScript)  <br>🎯 Goals: Build scalable SaaS apps & educational platforms  <br>💼 Projects I'm working on:  <br>- **Eaalim Meet** → Educational meetings & lectures platform  <br>- **بنك المعلومات** → Knowledge base for curricula & exams  <br>- **Imagenfay** → Image editing & background remover  <br>- **Simple Chatbot** → Lightweight assistant for quick Q&A  <br>🎲 Fun fact: I turn coffee ☕ into clean code (most of the time 😅)</p>
 
 ###
 
